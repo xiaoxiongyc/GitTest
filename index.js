@@ -1,1 +1,3 @@
-function index(){}
+function index(){
+    var a = 1
+}
